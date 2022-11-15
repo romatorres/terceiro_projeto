@@ -1,0 +1,21 @@
+{
+  "name": "terceiro_projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp devWatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.56.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "gulp": "^4.0.2",
+    "node-sass": "^7.0.3"
+  }
+}
