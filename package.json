@@ -1,7 +1,7 @@
 {
   "name": "terceiro_projeto",
   "version": "1.0.0",
-  "description": "",
+  "description": "Terceiro desafio da Trilaha de Aprendizagem Frontend",
   "main": "index.js",
   "scripts": {
     "dev": "gulp devWatch"
@@ -17,5 +17,13 @@
     "bootstrap": "^5.2.2",
     "gulp": "^4.0.2",
     "node-sass": "^7.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romatorres/terceiro_projeto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romatorres/terceiro_projeto/issues"
+  },
+  "homepage": "https://github.com/romatorres/terceiro_projeto#readme"
 }
