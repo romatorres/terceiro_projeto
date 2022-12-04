@@ -1,0 +1,35 @@
+{
+  "name": "terceiro_projeto",
+  "version": "1.0.0",
+  "description": "Terceiro desafio da Trilaha de Aprendizagem Frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp devWatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.56.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.20.5",
+    "bootstrap": "^5.2.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-css": "^0.1.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-purgecss": "^5.0.0",
+    "node-sass": "^7.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romatorres/terceiro_projeto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romatorres/terceiro_projeto/issues"
+  },
+  "homepage": "https://github.com/romatorres/terceiro_projeto#readme"
+}

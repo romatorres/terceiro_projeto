@@ -1,0 +1,14 @@
+$primary: #EB5819 !default;
+
+$enable-negative-margins: true;
+
+$theme-colors: (
+  "primary": $primary,
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+@import "global"; 
+@import "home";

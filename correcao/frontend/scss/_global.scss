@@ -1,0 +1,17 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+footer {
+  background:  #D4D9D6;
+} 
+ 
+.btn-primary {
+  color: #fff;
+}
+
+.text-primary { 
+  // Precisei sobrescrever novamente por conta de alguma mudança na versão 5.2.3 do bootsrap
+  // por algum motivo ele não sobrescreveu a cor do texto quando setei a variavel primary
+  // Ainda n descobri exatamente o por quê, por hora, essa clase resolve
+  color: #EB5819 !important;
+}
